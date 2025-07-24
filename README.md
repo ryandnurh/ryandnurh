@@ -50,7 +50,7 @@ An app to help farmers record harvest data efficiently.
 
 ## 📄 My CV
 
-You can download or view my CV [here](./assets/cv.pdf).
+You can download or view my CV [here](https://drive.google.com/file/d/11RxnmlrwxdKXQ8hoz9DP2ci0fWNmS5r3/view?usp=drivesdk).
 
 ---
 
