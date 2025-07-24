@@ -23,10 +23,6 @@ An app to help farmers record harvest data efficiently.
 
 ---
 
-
-
----
-
 ## 🎨 UI/UX Designs & Visual Assets
 
 - [Teh Idaman – UI Design (Figma)](https://ungu.in/ui_teh_idaman)  
