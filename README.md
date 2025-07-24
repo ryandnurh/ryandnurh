@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Febryand Nur Hidayat
 
-<!--
-**ryandnurh/ryandnurh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio  
+I'm a passionate developer with experience in Android and web development. Here you’ll find a collection of my personal, academic, and freelance projects — showcasing my journey and skills in building real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mobile Development Projects
+
+### 🧋 [Teh Idaman – Android App for Local Business](https://github.com/ryandnurh/teh-idaman)  
+
+A product ordering app for a local tea business built with Kotlin and XML.  
+🧩 **Tech Stack:** Kotlin, XML, Laravel (Backend), MySQL  
+🔐 **Features:** Authentication, product catalog, ordering system
+
+[Teh Idaman – UI](https://github.com/Dvamhmd/slider)
+
+
+### 🌾 [Mandiri Panganku – Agriculture App](https://github.com/Dvamhmd/Mandiri_Panganku_FP)  
+An app to help farmers record harvest data efficiently.  
+🧩 **Tech Stack:** Kotlin, Firebase Auth & Realtime Database  
+📝 CRUD system, secure login, clean and simple UI
+
+---
+
+
+
+---
+
+## 🎨 UI/UX Designs & Visual Assets
+
+- [Teh Idaman – UI Design (Figma)](https://ungu.in/ui_teh_idaman)  
+
+---
+
+## 🧠 Skills & Technologies
+
+- **Mobile Development:** Kotlin, XML, Jetpack Compose  
+- **Web Development:** HTML, CSS, Javascript, PHP 
+- **Databases:** Firebase, MySQL  
+- **Tools:** Git, GitHub, Figma  
+- **Others:** Authentication, CRUD operations, UI/UX design
+
+---
+
+## 🧑‍🏫 Academic & Freelance Experience
+
+- Teaching Assistant – Application Programming  
+- Teaching Assistant – Mobile Programming    
+- Freelance Front-End Developer (2023)  
+- Contributor to various student and team-based app projects
+
+---
+
+## 📫 Contact Me
+
+**Febryand Nur Hidayat**  
+📧 Email: ryandnurhidayat@gmail.com  
+🔗 GitHub: [github.com/ryandnurh](https://github.com/ryandnurh)  
+
+---
+
+> Thank you for visiting! Feel free to explore my projects, and don’t hesitate to reach out for collaborations or opportunities.
