@@ -1,7 +1,7 @@
 # Hi, I'm Febryand Nur Hidayat
 
 Welcome to my GitHub portfolio  
-I'm a passionate developer with experience in Android and web development. Here you’ll find a collection of my personal, academic, and freelance projects — showcasing my journey and skills in building real-world applications.
+I'm a passionate developer with experience in Android and web development. Here you’ll find a collection of my personal and academic projects — showcasing my journey and skills in building real-world applications.
 
 ---
 
