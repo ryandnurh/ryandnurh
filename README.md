@@ -54,7 +54,7 @@ An app to help farmers record harvest data efficiently.
 
 ## 📄 My CV
 
-You can download or view my CV [here](./assets/cv-febryand.pdf).
+You can download or view my CV [here](./assets/cv.pdf).
 
 ---
 
